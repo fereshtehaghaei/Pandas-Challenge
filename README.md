@@ -1,7 +1,5 @@
-# Pandas_Challenge: In this Challenge , the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. My task for this challenge is to generate a report that breaks down the game's purchasing data into meaningful insights. My report needs to include: Player Count, Purchasing Analysis, Gender Demographics, Purchasing Analysis, Age Demographics, Top Spenders, Most Popular Items and Most Profitable Items.
-
-
-  (Gender)
+# Pandas_Challenge: 
+In this Challenge , the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. My task for this challenge is to generate a report that breaks down the game's purchasing data into meaningful insights. My report needs to include: Player Count, Purchasing Analysis, Gender Demographics, Purchasing Analysis, Age Demographics, Top Spenders, Most Popular Items and Most Profitable Items.
 
 # set up the Dependencies 
 import pandas as pd
@@ -14,5 +12,5 @@ purchase_df = "Resources/purchase_data.csv"
 purchase_df = pd.read_csv(purchase_df)
 
 ### Player Count
+Total Players 	576
 
-* Total Number of Players
