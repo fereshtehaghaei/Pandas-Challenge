@@ -1,6 +1,20 @@
-# Heroes of Pymoli
 
-Final report should include each of the following:
+# Heros of Pymoli Data Analysis Observations:
+
+•As the Total Purchase count is 780, the number of unique players 573. 
+
+ • Most of the players have repeated their purchases for the Heroes of Pymoli game.
+
+ • The game is more popular among male players. The vast majority of players are male (84%);however, female 
+   and other/non-disclosed players spent more per person, $4.47 &  $4.56 respectively versus $4.07 for males.
+
+ • A majority of players fall into the <20-24> (44.79%)age bracket though the age bracket that spent the 
+   most per person is 35-39 at $4.76 per player. 
+
+  • The most popular item is also the most profitable, Oathbreaker, Last Hope of the Breaking Storm.
+
+
+Final Report includes each of the following:
 
 ### Player Count
 
@@ -60,10 +74,3 @@ Final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
-As final considerations:
-
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
