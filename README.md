@@ -1,3 +1,7 @@
+# Heroes of Pymoli Game
+
+![](C:\Users\cache\OneDrive\Desktop\BootCampClassWork\Pandas-Challenge\HeroesOfPymoli\Images\Heroes of Pymoli.jpg)
+
 # Heros of Pymoli Data Analysis Observations:
 •As the Total Purchase count is 780, the number of unique players 573.
 
