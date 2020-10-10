@@ -1,6 +1,6 @@
 #    Heroes of Pymoli Game
 
-![](Images/Heroes%20of%20Pymoli.jpg)
+
 
 
 
