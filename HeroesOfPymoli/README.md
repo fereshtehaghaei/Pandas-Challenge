@@ -1,10 +1,8 @@
 #    Heroes of Pymoli Game
 
+
+
 ![](C:\Users\cache\OneDrive\Desktop\BootCampClassWork\Pandas-Challenge\HeroesOfPymoli\Images\Heroes of Pymoli.jpg)
-
-
-
-
 
 
 
