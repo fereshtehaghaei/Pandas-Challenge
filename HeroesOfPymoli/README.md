@@ -2,7 +2,7 @@
 
 
 
-![](HeroesOfPymoli/Images/HeroesofPymoli.png)
+![](Images/HeroesofPymoli.png)
 
 
 
