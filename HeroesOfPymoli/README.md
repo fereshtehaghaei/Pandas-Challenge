@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Py-City Schools
 
 ### Dependencies and Starter Code
@@ -68,6 +69,58 @@ memory usage: 3.6+ MB
 - Calculate the percentage of students with a passing reading score (70 or greater)
 - Calculate the percentage of students who passed math **and** reading (% Overall Passing)
 - Create a dataframe to hold the above results
+=======
+#    Heroes of Pymoli Game
+
+
+
+![](Images/HeroesofPymoli.png)
+
+
+
+# Heros of Pymoli Data Analysis Observations:
+•As the Total Purchase count is 780, the number of unique players 573.
+
+• Most of the players have repeated their purchases for the Heroes of Pymoli game.
+
+• The game is more popular among male players. The vast majority of players are male (84%);however, female and other/non-disclosed players spent more per person, $4.47 & $4.56 respectively versus $4.07 for males.
+
+• A majority of players fall into the <20-24> (44.79%)age bracket though the age bracket that spent the most per person is 35-39 at $4.76 per player.
+
+• The most popular item is also the most profitable, Oathbreaker, Last Hope of the Breaking Storm.
+
+# Final Report includes each of the following:
+
+[]: https://github.com/fereshtehaghaei/Pandas-Challenge/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb
+
+
+# Purchase Data
+
+| Purchase ID |   SN |           Age | Gender | Item ID | Item Name |                                     Price |      |
+| ----------: | ---: | ------------: | -----: | ------: | --------: | ----------------------------------------: | ---- |
+|           0 |    0 |       Lisim78 |     20 |    Male |       108 | Extraction, Quickblade Of Trembling Hands | 3.53 |
+|           1 |    1 |   Lisovynya38 |     40 |    Male |       143 |                         Frenzied Scimitar | 1.56 |
+|           2 |    2 |    Ithergue48 |     24 |    Male |        92 |                              Final Critic | 4.88 |
+|           3 |    3 | Chamassasya86 |     24 |    Male |       100 |                               Blindscythe | 3.27 |
+|           4 |    4 |     Iskosia90 |     23 |    Male |       131 |                                      Fury | 1.44 |
+
+## Player Count
+
+- Display the total number of players
+
+|      | Total Players |
+| ---: | ------------: |
+|    0 |           576 |
+
+
+
+## Purchasing Analysis (Total)
+
+- Run basic calculations to obtain number of unique items, average price, etc.
+
+- Create a summary data frame to hold the results
+
+>>>>>>> 4f55b71f1ff686a1f914fe2c3a5f22f5381cb724
 - Optional: give the displayed data cleaner formatting
 
 ### Calculation for District Summary (Totals, Averages, Percentages)
