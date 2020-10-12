@@ -1,76 +1,5 @@
-<<<<<<< HEAD
-# Py-City Schools
-
-### Dependencies and Starter Code
-
-```
-# Dependencies and Setup
-import pandas as pd
-import numpy as np
-
-# File to Load (Remember to Change These)
-school_data_to_load = "Resources/schools_complete.csv"
-student_data_to_load = "Resources/students_complete.csv"
-
-# Read School and Student Data File and store into Pandas DataFrames
-school_data = pd.read_csv(school_data_to_load)
-student_data = pd.read_csv(student_data_to_load)
-
-# Combine the data into a single dataset.  
-school_data_complete = pd.merge(student_data, school_data, how="left", on=["school_name", "school_name"])
-```
-
-
-
-### Check School Data types:
-
-```
-school_data_complete.info()
-<class 'pandas.core.frame.DataFrame'>
-Int64Index: 39170 entries, 0 to 39169
-Data columns (total 11 columns):
- #   Column         Non-Null Count  Dtype 
----  ------         --------------  ----- 
- 0   Student ID     39170 non-null  int64 
- 1   student_name   39170 non-null  object
- 2   gender         39170 non-null  object
- 3   grade          39170 non-null  object
- 4   school_name    39170 non-null  object
- 5   reading_score  39170 non-null  int64 
- 6   math_score     39170 non-null  int64 
- 7   School ID      39170 non-null  int64 
- 8   type           39170 non-null  object
- 9   size           39170 non-null  int64 
- 10  budget         39170 non-null  int64 
-dtypes: int64(6), object(5)
-memory usage: 3.6+ MB
-```
-
-### Displaying merged Data-Frame:
-
-|      | Student ID |      student_name | gender | grade |       school_name | reading_score | math_score | School ID |     type | size |  budget |
-| ---: | ---------: | ----------------: | -----: | ----: | ----------------: | ------------: | ---------: | --------: | -------: | ---: | ------: |
-|    0 |          0 |      Paul Bradley |      M |   9th | Huang High School |            66 |         79 |         0 | District | 2917 | 1910635 |
-|    1 |          1 |      Victor Smith |      M |  12th | Huang High School |            94 |         61 |         0 | District | 2917 | 1910635 |
-|    2 |          2 |   Kevin Rodriguez |      M |  12th | Huang High School |            90 |         60 |         0 | District | 2917 | 1910635 |
-|    3 |          3 | Dr. Richard Scott |      M |  12th | Huang High School |            67 |         58 |         0 | District | 2917 | 1910635 |
-|    4 |          4 |        Bonnie Ray |      F |   9th | Huang High School |            97 |         84 |         0 | District | 2917 | 1910635 |
-
-
-
-# District Summary
-
-- Calculate the total number of schools
-- Calculate the total number of students
-- Calculate the total budget
-- Calculate the average math score
-- Calculate the average reading score
-- Calculate the percentage of students with a passing math score (70 or greater)
-- Calculate the percentage of students with a passing reading score (70 or greater)
-- Calculate the percentage of students who passed math **and** reading (% Overall Passing)
-- Create a dataframe to hold the above results
+Heroes of Pymoli Game
 =======
-#    Heroes of Pymoli Game
 
 
 
@@ -92,6 +21,7 @@ memory usage: 3.6+ MB
 # Final Report includes each of the following:
 
 []: https://github.com/fereshtehaghaei/Pandas-Challenge/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb
+
 
 
 # Purchase Data
@@ -120,7 +50,6 @@ memory usage: 3.6+ MB
 
 - Create a summary data frame to hold the results
 
->>>>>>> 4f55b71f1ff686a1f914fe2c3a5f22f5381cb724
 - Optional: give the displayed data cleaner formatting
 
 ### Calculation for District Summary (Totals, Averages, Percentages)
