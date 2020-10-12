@@ -1,10 +1,7 @@
 Heroes of Pymoli Game
 =======
 
-
-
-![](Images/HeroesofPymoli.png)
-
+![](Images/Fantasy.png)
 
 
 # Heros of Pymoli Data Analysis Observations:
