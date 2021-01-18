@@ -1,4 +1,4 @@
-#    Heroes of Pymoli Game
+# Pandas Data Analysis for Heroes of Pymoli Game
 
 ![](HeroesOfPymoli/Images/Fantasy.png)
 
@@ -31,7 +31,7 @@
 
 ## Player Count
 
-- Display the total number of players
+- Displayed the total number of players
 
 |      | Total Players |
 | ---: | ------------: |
@@ -41,13 +41,13 @@
 
 ## Purchasing Analysis (Total)
 
-- Run basic calculations to obtain number of unique items, average price, etc.
+- Ran basic calculations to obtain number of unique items, average price, etc.
 
-- Create a summary data frame to hold the results
+- Created a summary data frame to hold the results
 
-- Optional: give the displayed data cleaner formatting
+- Gave the displayed data cleaner formatting
 
-- Display the summary data frame
+- Displayed the summary data frame
 
 
 
@@ -59,10 +59,10 @@
 
 ## Gender Demographics
 
-- Run basic calculations to obtain number of unique items, average price, etc.
-- Create a summary data frame to hold the results
-- Optional: give the displayed data cleaner formatting
-- Display the summary data frame
+- Ran basic calculations to obtain number of unique items, average price, etc.
+- Created a summary data frame to hold the results
+- Gave the displayed data cleaner formatting
+- Displayed the summary data frame
 
 |                       | Total Count | Percentage of Players |
 | --------------------: | ----------: | --------------------: |
@@ -75,13 +75,13 @@
 
 ## Purchasing Analysis (Gender)
 
-- Run basic calculations to obtain purchase count, avg. purchase price, avg. purchase total per person etc. by gender
+- Ran basic calculations to obtain purchase count, avg. purchase price, avg. purchase total per person etc. by gender
 
-- Create a summary data frame to hold the results
+- Created a summary data frame to hold the results
 
-- Optional: give the displayed data cleaner formatting
+- Gave the displayed data cleaner formatting
 
-- Display the summary data frame
+- Displayed the summary data frame
 
 |                       | Purchase Count | Average Purchase Price | Total Purchase Value | AVG Total Purchase per Person |
 | --------------------: | -------------: | ---------------------: | -------------------: | ----------------------------: |
@@ -92,17 +92,17 @@
 
 ## Age Demographics
 
-- Establish bins for ages
+- Established bins for ages
 
-- Categorize the existing players using the age bins. Hint: use pd.cut()
+- Categorized the existing players using the age bins. Hint: use pd.cut()
 
-- Calculate the numbers and percentages by age group
+- Calculated the numbers and percentages by age group
 
-- Create a summary data frame to hold the results
+- Created a summary data frame to hold the results
 
-- Optional: round the percentage column to two decimal points
+- Rounded the percentage column to two decimal points
 
-- Display Age Demographics Table
+- Displayed Age Demographics Table
 
  
 
@@ -121,13 +121,13 @@
 
 - Bin the purchase_data data frame by age
 
-- Run basic calculations to obtain purchase count, avg. purchase price, avg. purchase total per person etc. in the table below
+- Ran basic calculations to obtain purchase count, avg. purchase price, avg. purchase total per person etc. in the table below
 
-- Create a summary data frame to hold the results
+- Created a summary data frame to hold the results
 
-- Optional: give the displayed data cleaner formatting
+- Gave the displayed data cleaner formatting
 
-- Display the summary data frame
+- Displayed the summary data frame
 
 
 
@@ -146,15 +146,15 @@
 
 ## Top Spenders
 
-- Run basic calculations to obtain the results in the table below
+- Ran basic calculations to obtain the results in the table below
 
-- Create a summary data frame to hold the results
+- Created a summary data frame to hold the results
 
-- Sort the total purchase value column in descending order
+- Sorted the total purchase value column in descending order
 
-- Optional: give the displayed data cleaner formatting
+- Gave the displayed data cleaner formatting
 
-- Display a preview of the summary data frame
+- Displayed a preview of the summary data frame
 
 |             | Purchase Count | Average Purchase Price | Total Purchase Value |
 | ----------: | -------------: | ---------------------: | -------------------: |
@@ -167,17 +167,17 @@
 
 ## Most Popular Items
 
-- Retrieve the Item ID, Item Name, and Item Price columns
+- Retrieved the Item ID, Item Name, and Item Price columns
 
-- Group by Item ID and Item Name. Perform calculations to obtain purchase count, item price, and total purchase value
+- Grouped by Item ID and Item Name. Perform calculations to obtain purchase count, item price, and total purchase value
 
-- Create a summary data frame to hold the results
+- Created a summary data frame to hold the results
 
-- Sort the purchase count column in descending order
+- Sorted the purchase count column in descending order
 
-- Optional: give the displayed data cleaner formatting
+- Gave the displayed data cleaner formatting
 
-- Display a preview of the summary data frame
+- Displayed a preview of the summary data frame
 
 |         |                                              | Purchase Count | Item Price | Total Purchase Value |
 | ------: | -------------------------------------------: | -------------: | ---------: | -------------------: |
@@ -192,11 +192,11 @@
 
 # Most Profitable Items
 
-- Sort the above table by total purchase value in descending order
+- Sorted the above table by total purchase value in descending order
 
-- Optional: give the displayed data cleaner formatting
+- Gave the displayed data cleaner formatting
 
-- Display a preview of the data frame
+- Displayed a preview of the data frame
 
 
 
@@ -209,3 +209,10 @@
 |     145 |                         Fiery Glass Crusader |              9 |      $4.58 |               $41.22 |
 |     103 |                               Singed Scalpel |              8 |      $4.35 |               $34.80 |
 
+
+
+- - -
+
+### Copyright
+
+Fereshteh Aghaei © 2021. All Rights Reserved.
